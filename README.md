@@ -14,3 +14,6 @@ http://www.cnblogs.com/xrwang/archive/2010/04/12/BackgroundGenerationAndForegrou
 
 4. 背景建模与前景检测之四(Background Generation And Foreground Detection Phase 4)
 http://www.cnblogs.com/xrwang/archive/2012/04/24/MPCBBGM.html
+
+目标检测中背景建模方法（很全）
+http://www.cnblogs.com/ronny/archive/2012/04/12/2444053.html
