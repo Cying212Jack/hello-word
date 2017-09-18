@@ -21,5 +21,8 @@ http://www.cnblogs.com/ronny/archive/2012/04/12/2444053.html
 运动检测文献综述（强烈推荐！）
 http://blog.huajh7.com/2017/04/06/motion-detection/
 
+【图像处理】运动目标检测ViBe算法（附代码）
+http://blog.csdn.net/zhuangxiaobin/article/details/25988281
+
 比赛网站，有不少有用信息
 http://changedetection.net/
