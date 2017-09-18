@@ -2,3 +2,15 @@
 
 Hi, I'm a handsome boy! And his is a new begining!
 
+background substraction
+1. 背景建模与前景检测(Background Generation And Foreground Detection)
+http://www.cnblogs.com/xrwang/archive/2010/03/27/BackgroundGenerationAndForegroundDetectionPhase2.html
+
+2. 背景建模与前景检测之二(Background Generation And Foreground Detection Phase 2)
+http://www.cnblogs.com/xrwang/archive/2010/02/21/ForegroundDetection.html
+
+3. 背景建模与前景检测之三(Background Generation And Foreground Detection Phase 3)
+http://www.cnblogs.com/xrwang/archive/2010/04/12/BackgroundGenerationAndForegroundDetectionPhase3.html
+
+4. 背景建模与前景检测之四(Background Generation And Foreground Detection Phase 4)
+http://www.cnblogs.com/xrwang/archive/2012/04/24/MPCBBGM.html
