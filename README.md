@@ -1,6 +1,6 @@
 # hello-word
 
-Hi, I'm a handsome boy! And his is a new begining!
+Hi, I'm a handsome boy! And this is a new begining!
 
 background substraction
 1. 背景建模与前景检测(Background Generation And Foreground Detection)
