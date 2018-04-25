@@ -1,0 +1,26 @@
+********************************
+修改处1
+********************************
+将
+data_after_s = date_start_experiment
+改为
+data_after_s = datetime.datetime.strptime(date_start_experiment, "%Y-%m-%d")
+
+********************************
+修改处2
+********************************
+
+在
+data_after = data_all[(data_all["d"] .......]
+前面添加一句
+
+data_all["d"] = pd.to_datetime(data_all["d"])
+
+
+********************************
+修改处3
+********************************
+最后一句
+将mode = 'wb'
+改为
+mode = 'w'
