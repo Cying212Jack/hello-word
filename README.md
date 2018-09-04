@@ -2,6 +2,26 @@
 
 Hi, I'm a handsome boy! And this is a new begining!
 
+
+##############################################################
+2018/09/04 
+##############################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 background substraction
 1. 背景建模与前景检测(Background Generation And Foreground Detection)
 http://www.cnblogs.com/xrwang/archive/2010/03/27/BackgroundGenerationAndForegroundDetectionPhase2.html
